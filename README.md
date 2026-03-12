@@ -18,9 +18,7 @@ This project focuses on clean UI architecture, modular styling, and interactive 
 
 ## Preview
 
-![Preview](assets/images/preview.png)
-
-*(Add a screenshot of your website here later)*
+[![Portfolio Preview](assets/images/previews.png)](https://your-website-link.com)
 
 ---
 
