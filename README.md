@@ -75,7 +75,7 @@ git clone https://github.com/KatsukiiNeko/Portfolio-v2.git
 
 ### 2. Navigate into the project
 ```bash
-cd Tandev
+cd Portfolio-v2
 ```
 
 ### 3. Run locally
