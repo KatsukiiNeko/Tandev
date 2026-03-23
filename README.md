@@ -47,21 +47,21 @@ Tandev
 │   └── images
 │
 ├── css
-│   ├── base.css        # global styles
-│   ├── themes.css      # theme variables
-│   ├── components.css  # reusable UI components
+│   ├── base.css        
+│   ├── themes.css      
+│   ├── components.css 
 │   ├── navbar.css
 │   ├── hero.css
 │   ├── sections.css
 │   └── animations.css
 │
 ├── js
-│   ├── main.js         # core logic
-│   ├── renderpipe.js   # rendering pipeline
-│   └── three-scene.js  # 3D scene setup
+│   ├── main.js         
+│   ├── renderpipe.js   
+│   └── three-scene.js  
 │
 └── data
-    └── projects.json   # project content
+    └── projects.json   
 ```
 
 ---
