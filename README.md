@@ -1,40 +1,38 @@
-# Portfolio v2
+# ✨ Portfolio v2
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Three.js](https://img.shields.io/badge/Three.js-black?logo=three.js)
-
-Features
-Project Structure
-Getting Started
-Tech Stack
-License
-
-A modern **interactive web prototype** built using **HTML, CSS, and JavaScript**.
-
-This project focuses on clean UI architecture, modular styling, and interactive frontend components. It is designed as an experimental interface for exploring modern web design patterns.
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ---
 
-## Preview
+## 🚀 Overview
+
+A modern **interactive web prototype** built with **vanilla HTML, CSS, and JavaScript**, enhanced by **Three.js** for 3D rendering.
+
+This project showcases a structured approach to frontend architecture, focusing on **scalability, modular design, and immersive user experience**. It serves as both a **portfolio foundation** and an **experimental playground** for advanced UI/UX patterns.
+
+---
+
+## 🔗 Live Preview
 
 [![Portfolio Preview](assets/images/previews.png)](https://katsukiineko.vercel.app/)
 
 ---
 
-## Features
+## ✨ Key Features
 
-• Modular CSS architecture
-• Component-based UI layout
-• Theme system (light / dark)
-• Smooth animations
-• Interactive 3D scene support
+- 🧩 **Modular CSS architecture** for maintainability and scalability  
+- 🧱 **Component-based layout system**  
+- 🎨 **Dynamic theme system** (Light / Dark mode)  
+- ⚡ **Smooth animations & transitions**  
+- 🌐 **Interactive 3D scene integration (Three.js)**  
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```bash
 Tandev
@@ -49,75 +47,72 @@ Tandev
 │   └── images
 │
 ├── css
-│   ├── base.css
-│   ├── themes.css
-│   ├── components.css
+│   ├── base.css        # global styles
+│   ├── themes.css      # theme variables
+│   ├── components.css  # reusable UI components
 │   ├── navbar.css
 │   ├── hero.css
 │   ├── sections.css
 │   └── animations.css
 │
 ├── js
-│   ├── main.js
-│   ├── renderpipe.js
-│   └── three-scene.js
+│   ├── main.js         # core logic
+│   ├── renderpipe.js   # rendering pipeline
+│   └── three-scene.js  # 3D scene setup
 │
 └── data
-    └── projects.json
+    └── projects.json   # project content
 ```
 
 ---
 
-## Getting Started
+## ⚙️ Getting Started
 
-Clone the repository
-
+### 1. Clone the repository
 ```bash
 git clone https://github.com/KatsukiiNeko/Tandev.git
 ```
 
-Enter the project folder
-
+### 2. Navigate into the project
 ```bash
 cd Tandev
 ```
 
-Open the project
+### 3. Run locally
 
+**Option A — Open directly**
 ```bash
 index.html
 ```
 
-or run a simple dev server
-
+**Option B — Use a local server (recommended)**
 ```bash
 python -m http.server
 ```
 
 ---
 
-## Technologies Used
+## 🧪 Tech Stack
 
-HTML5
-CSS3
-JavaScript (Vanilla)
-Three.js
+- **HTML5** — semantic structure  
+- **CSS3** — modular styling & theming  
+- **Vanilla JavaScript** — application logic  
+- **Three.js** — 3D graphics & rendering  
 
 ---
 
-## Development Goals
+## 🎯 Development Focus
 
 This project explores:
 
-* scalable CSS structure
-* component based layout
-* animation systems
-* 3D web graphics integration
+- Scalable and maintainable **CSS architecture**
+- Clean **component-driven UI design**
+- Efficient **animation systems**
+- Integration of **3D graphics into web interfaces**
 
 ---
 
-## License
+## 📜 License
 
-This project is licensed under the MIT License.
-
-See the LICENSE file for details.
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for more details.
