@@ -1,18 +1,30 @@
 # ✨ Portfolio v2
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-black?logo=three.js)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js\&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel\&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff1493?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Modular-purple?style=for-the-badge)
+![Rendering](https://img.shields.io/badge/Rendering-Three.js-black?style=for-the-badge)
 
 ---
 
 ## 🚀 Overview
 
-A modern **interactive web prototype** built with **vanilla HTML, CSS, and JavaScript**, enhanced by **Three.js** for 3D rendering.
+A modern **interactive web prototype** built with **vanilla HTML, CSS, and JavaScript**, enhanced by **Three.js** for real-time 3D rendering.
 
-This project showcases a structured approach to frontend architecture, focusing on **scalability, modular design, and immersive user experience**. It serves as both a **portfolio foundation** and an **experimental playground** for advanced UI/UX patterns.
+This project demonstrates a structured frontend architecture with a focus on:
+
+* **Scalability**
+* **Modular design**
+* **Immersive user experience**
+
+It serves as both a **portfolio foundation** and an **experimental playground** for advanced UI/UX patterns.
 
 ---
 
@@ -20,15 +32,27 @@ This project showcases a structured approach to frontend architecture, focusing 
 
 [![Portfolio Preview](assets/images/previews.png)](https://katsukiineko.vercel.app/)
 
+> ⚡ Best experienced on desktop browsers
+
 ---
 
 ## ✨ Key Features
 
-- 🧩 **Modular CSS architecture** for maintainability and scalability  
-- 🧱 **Component-based layout system**  
-- 🎨 **Dynamic theme system** (Light / Dark mode)  
-- ⚡ **Smooth animations & transitions**  
-- 🌐 **Interactive 3D scene integration (Three.js)**  
+* 🧩 **Modular CSS architecture** for long-term scalability
+* 🧱 **Component-based layout system**
+* 🎨 **Dynamic theme switching** (Light / Dark mode)
+* ⚡ **Smooth animations & micro-interactions**
+* 🌐 **Three.js-powered 3D scene integration**
+* 📱 **Responsive design** across devices
+
+---
+
+## 🧠 Architecture Highlights
+
+* Separation of concerns between **structure, style, and logic**
+* Reusable UI components for consistent design
+* Lightweight rendering pipeline for performance
+* JSON-driven content system for flexibility
 
 ---
 
@@ -69,11 +93,13 @@ Portfolio-v2
 ## ⚙️ Getting Started
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/KatsukiiNeko/Portfolio-v2.git
 ```
 
 ### 2. Navigate into the project
+
 ```bash
 cd Portfolio-v2
 ```
@@ -81,11 +107,13 @@ cd Portfolio-v2
 ### 3. Run locally
 
 **Option A — Open directly**
+
 ```bash
 index.html
 ```
 
 **Option B — Use a local server (recommended)**
+
 ```bash
 python -m http.server
 ```
@@ -94,10 +122,10 @@ python -m http.server
 
 ## 🧪 Tech Stack
 
-- **HTML5** — semantic structure  
-- **CSS3** — modular styling & theming  
-- **Vanilla JavaScript** — application logic  
-- **Three.js** — 3D graphics & rendering  
+* **HTML5** — semantic structure
+* **CSS3** — modular styling & theming
+* **Vanilla JavaScript** — application logic
+* **Three.js** — 3D graphics & rendering
 
 ---
 
@@ -105,14 +133,31 @@ python -m http.server
 
 This project explores:
 
-- Scalable and maintainable **CSS architecture**
-- Clean **component-driven UI design**
-- Efficient **animation systems**
-- Integration of **3D graphics into web interfaces**
+* Scalable **CSS architecture**
+* Clean **component-driven UI design**
+* High-performance **animation systems**
+* Integration of **3D graphics into modern web interfaces**
+
+---
+
+## 📈 Future Improvements
+
+* 🔧 Scene optimization & performance tuning
+* 🎮 More interactive 3D elements
+* 📊 Dynamic content expansion
+* 🌍 Accessibility & SEO improvements
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.  
-See the `LICENSE` file for more details.
+This project is licensed under the **MIT License**.
+See the `LICENSE` file for details.
+
+---
+
+## 📄 Copyright
+
+© 2026 KatsukiiNeko. All rights reserved.
+
+> *Design. Code. Experience.*
