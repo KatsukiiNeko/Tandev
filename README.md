@@ -5,12 +5,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js\&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel\&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff1493?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-Modular-purple?style=for-the-badge)
-![Rendering](https://img.shields.io/badge/Rendering-Three.js-black?style=for-the-badge)
 
 ---
 
